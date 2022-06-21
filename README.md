@@ -1,9 +1,12 @@
-Connect with me!
+It's Rabeya!
 
-[![image](https://user-images.githubusercontent.com/44209638/174842616-2f396309-c9fd-4401-94de-d8444bab546d.png)](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
-[![image](https://user-images.githubusercontent.com/44209638/174842412-05cbda19-2876-4857-8e8d-60508deeedcd.png)](https://twitter.com/RabeyaA39672541)
-[![image](https://user-images.githubusercontent.com/44209638/174842824-008813d7-4afd-4ca8-b418-ef510128a274.png)](https://www.hackerrank.com/s2018126866?hr_r=1)
-[![image](https://user-images.githubusercontent.com/44209638/174842214-c302b5f8-8ecb-440b-9618-6a06eff7f47b.png)](https://www.hackerearth.com/@s2018126866)
+[![image](https://user-images.githubusercontent.com/44209638/174846950-d2f3eb97-9da9-4974-b271-e9149673e70e.png)
+](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
+[![image](https://user-images.githubusercontent.com/44209638/174846841-a3d29f7c-06d1-4ab5-81b7-617d8ed3c39a.png)
+](https://twitter.com/RabeyaA39672541)
+![image](https://user-images.githubusercontent.com/44209638/174846596-10c78908-a296-43c4-9e46-fa47f6f243e9.png)(https://scholar.google.com/citations?hl=en&user=3XYOK88AAAAJ)
+
+#######
 
 Programming Languages: 
 
