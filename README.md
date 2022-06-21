@@ -8,7 +8,10 @@ Connect with me!
 Programming Languages: 
 
  ![](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
- (![image](https://user-images.githubusercontent.com/44209638/174845564-3cf8108d-1993-44fe-ac0a-5d16b9277ba1.png)
+ ![image](https://user-images.githubusercontent.com/44209638/174845951-b1909c6c-bad1-420e-b3dc-24c8687fbb27.png)
+ ![image](https://user-images.githubusercontent.com/44209638/174846022-c2d2d4e7-2df0-4340-88b8-8d71ff3dd041.png)
+
+
 
  
  
