@@ -1,9 +1,8 @@
 It's Rabeya!
 
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44209638/180598820-9139a3e7-09d0-4f59-b3fc-66ad760ead39.png" />
+  <img src="https://user-images.githubusercontent.com/44209638/180598873-2e94d8c4-6161-4ab4-ad0a-9eac18718a80.png" />
 </p>
 
 
