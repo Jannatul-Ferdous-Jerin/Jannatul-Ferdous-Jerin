@@ -1,7 +1,9 @@
 It's Rabeya!
 
 
-![image](https://user-images.githubusercontent.com/44209638/180598169-fc6d7900-fd58-4d6a-a5a6-f58d786516f2.png?style=centerme)
+
+![image](https://user-images.githubusercontent.com/44209638/180598326-376db12f-dbc8-470e-a51c-35ad8a6530ce.png?style=centerme)
+
 
 
 [![image](https://user-images.githubusercontent.com/44209638/174846950-d2f3eb97-9da9-4974-b271-e9149673e70e.png)](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
