@@ -2,7 +2,7 @@ It's Rabeya!
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/44209638/180646902-2b3408bd-dd79-4833-86bc-e6084080a956.png" />
+  <img src="https://user-images.githubusercontent.com/44209638/180647514-ec7941ac-815e-417b-8000-a52db25731b1.png" />
 </p>
 
 
