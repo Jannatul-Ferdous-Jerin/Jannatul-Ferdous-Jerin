@@ -9,6 +9,7 @@ It's Rabeya!
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=kaggle&style=social&url=https%3A%2F%2Fwww.kaggle.com%2F)](https://www.kaggle.com/rabeyaakter23)
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=hackerrank&style=social&url=https%3A%2F%2Fwww.hackerrank.com%2Fs2018126866)](https://www.hackerrank.com/s2018126866)
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=hackerearth&style=social&url=https%3A%2F%2Fwww.hackerearth.com%2Fchallenges%2F)](https://www.hackerearth.com/@s2018126866)
+[![image](https://img.shields.io/twitter/url?label=Medium&logo=Medium&style=social&url=https%3A%2F%2Fmedium.com%2F)](https://medium.com/@rabeya_akter)
  
 -----
 
