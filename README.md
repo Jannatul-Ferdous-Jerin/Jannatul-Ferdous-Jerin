@@ -1,6 +1,5 @@
 Hey, it's Rabeya!
 
-![Profile views](https://gpvc.arturio.dev/[rabeya-akter])
 
 
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fhp%2F)](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
