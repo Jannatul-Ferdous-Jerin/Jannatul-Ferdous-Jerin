@@ -1,6 +1,5 @@
-Hey, it's Rabeya!
 
-
+<h1 align="center">Hey, I'm Rabeya Akter! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fhp%2F)](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRabeyaA39672541)](https://twitter.com/RabeyaA39672541)
