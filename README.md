@@ -13,7 +13,7 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeya-akter&show_icons=true)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabeya-akter&show_icons=false)]
 
 <br />
 
