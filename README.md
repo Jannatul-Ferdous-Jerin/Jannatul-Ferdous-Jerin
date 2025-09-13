@@ -7,9 +7,9 @@ Publications:
 
 ## Connect with me
 
-[![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fhp%2F)](https://www.linkedin.com/in/jannatul-ferdous-jerin-77a55a236/)
-[![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=x&style=social&url=https%3A%2F%2Ftwitter.com%2FRabeyaA39672541)]()
-[![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=google%20scholar&style=social&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Den%26user%3D3XYOK88AAAAJ)]()
+[![image](https://img.shields.io/twitter/url?label=Jannatul%20Ferdous&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fhp%2F)](https://www.linkedin.com/in/jannatul-ferdous-jerin-77a55a236/)
+[![image](https://img.shields.io/twitter/url?label=Jannatul%20Ferdous&logo=x&style=social&url=https%3A%2F%2Ftwitter.com%2FRabeyaA39672541)]()
+[![image](https://img.shields.io/twitter/url?label=Jannatul%20Ferdous&logo=google%20scholar&style=social&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fhl%3Den%26user%3D3XYOK88AAAAJ)]()
 
 
 
