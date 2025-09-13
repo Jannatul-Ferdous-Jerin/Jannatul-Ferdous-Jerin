@@ -3,7 +3,6 @@
 
 
 
-Publications:
 
 ## Connect with me
 
